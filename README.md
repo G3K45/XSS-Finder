@@ -5,13 +5,6 @@ It explores websites for XSS(Cross-Site-Scripting) vulnerability.
 
 XSS-Finder can be used for both Termux and Linux
 
-
-# Requirements for the installation
-
-The only requirement you need to install the XSS-Finder is
-
-Git to download the package from Github
-
 # Installation
 
 #Install on Termux:
