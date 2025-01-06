@@ -62,7 +62,7 @@ chmod +x xss
 
 # Image of the tool
 
-[!Image of Tool](https://i.ibb.co/Y0v7jQq/Image6.png)
+[!Image of Tool](https://ibb.co/nPhskm5)
 
 THANK YOU FOR USING MY TOOL
 
