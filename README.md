@@ -53,6 +53,16 @@ chmod +x xss
 ./xss
 ```
 
+#Install on Void:
+```bash
+sudo xbps-install git curl figlet python python-pip
+sudo pip install lolcat
+git clone https://github.com/G3K45/XSS-Finder.git
+cd XSS-Finder
+chmod +x xss
+./xss
+```
+
 # Image of the tool
 
 ![Image of Tool](https://i.ibb.co/Y0v7jQq/Image6.png)
